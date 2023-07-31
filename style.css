@@ -10,7 +10,7 @@
 }
 .bannerBgImage{
     height: 100vh;
-    background: url("/Java-Full-Stack-Training-in-Gurgaon.png");
+    background: url("./Java-Full-Stack-Training-in-Gurgaon.png");
     background-size: 100% ;
     position: relative;
 
