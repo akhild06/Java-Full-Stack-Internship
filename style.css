@@ -22,11 +22,12 @@
     left: 50%;
     transform: translate(-50% ,-50%);
     color: rgb(239, 243, 6);
+
 .d-grid{
     font-family: 'Times New Roman', Times, serif;   
 }      
 
-}
+
 .col-12{
     font-family: 'Times New Roman', Times, serif;   
 }   
